@@ -48,12 +48,6 @@ An AI-powered investment research platform that combines **real-time financial d
 
 ---
 
-### Latest News
-
-![News](screenshots/news.png)
-
----
-
 ## 🚀 Getting Started
 
 ### Clone Repository
